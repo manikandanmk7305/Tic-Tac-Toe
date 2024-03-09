@@ -74,3 +74,9 @@ html {
 .popup.hide {
   display: none;
 }
+h1{
+  text-align: center;
+  color: white;
+  font-size: 50px;
+  text-decoration: underline;
+}
